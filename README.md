@@ -6,4 +6,4 @@
 
 <h2 align="center">💬 Sobre</h2>
 
-O projeto foi idealizado na trilha de NodeJS da na 6ª edição do NextLevelWeek da Rocketseat. O NLW é um evento online com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
+O projeto foi idealizado na trilha de Flutter da na 6ª edição do NextLevelWeek da Rocketseat. O NLW é um evento online com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
