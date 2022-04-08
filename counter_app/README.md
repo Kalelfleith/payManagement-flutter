@@ -1,16 +1,25 @@
-# counter_app
+# Counter_App
 
 A new Flutter project.
 
-## Getting Started
+## Sobre
 
-This project is a starting point for a Flutter application.
+Objetivo dessa aplicação é colocar em prática e entender a teoria de conceitos básicos no desenvolvimento utilizando <strong>Flutter</strong> e <strong>Dart</strong>.
 
-A few resources to get you started if this is your first Flutter project:
+## Conceitos
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Funções (dart)
+- Classes (dart)
+- Chamando o Flutter no Dart (runApp)
+- Widget
+- Modificações nos Widgets
+- Introdução ao MaterialApp
+- Criação de HomePage
+- Stateless vs Statefull
+- Utilização do setState(() {});
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias e Ferramentas
+
+- Flutter
+- Dart
+- Android Studio
