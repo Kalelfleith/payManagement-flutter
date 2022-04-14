@@ -1,16 +1,30 @@
-# pay_management
+<p align="center">
+  <img alt="PayFlow" src=".github/payflow-logo.png" width="200px">
+</p>
 
-A new Flutter project.
+---
 
-## Getting Started
+<h2 align="center">Sobre 💬</h2>
 
-This project is a starting point for a Flutter application.
+O projeto foi idealizado na trilha de Flutter da na 6ª edição do NextLevelWeek da Rocketseat. O NLW é um evento online com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
 
-A few resources to get you started if this is your first Flutter project:
+---
+<h2 align="center">Tecnologias Utilizadas 🛠️</h2>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Flutter
+- Dart
+- Android Studio
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+<h2 align="center">Como Usar 🤔</h2>
+
+   ```
+   - Clone esse repositório:
+   $ git clone https://github.com/Kalelfleith/payManagement-flutter.git
+
+   - Instale as dependências:
+   $ flutter pub get
+
+   - Inicie o app: 
+   $ flutter run
+   ```
