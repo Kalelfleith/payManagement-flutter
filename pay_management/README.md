@@ -21,6 +21,9 @@ O projeto foi idealizado na trilha de Flutter da na 6ª edição do NextLevelWee
    ```
    - Clone esse repositório:
    $ git clone https://github.com/Kalelfleith/payManagement-flutter.git
+   
+   - Verificar se todos os requisitos do Flutter estão instalados
+   $ flutter doctor
 
    - Instale as dependências:
    $ flutter pub get
