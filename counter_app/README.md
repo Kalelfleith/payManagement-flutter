@@ -35,6 +35,9 @@ Checar status do Flutter
 Rodar aplicação
 > Flutter run
 
+Caso o Flutter esteja desatualizado, rodar o seguinte comando
+> Flutter upgrade
+
 ### Documentação
 
 For help getting started with Flutter, view our
